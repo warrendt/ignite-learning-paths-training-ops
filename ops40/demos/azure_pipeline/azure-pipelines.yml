@@ -15,12 +15,12 @@ variables:
 
   # AKS Pre-Production
   aks-cluster-rg-pre-prod: ops40-jhb-rg
-  aks-cluster-pre-prod: tailwindtradersakshzp7gvooj5hng
+  aks-cluster-pre-prod: tailwindtradersaksx2cjxgpxpak3u
   ingress-pre-prod: tailwindtradersaksx2cjxgpxpak3u-fda713b7.hcp.westeurope.azmk8s.io
 
   # Production
   aks-cluster-rg: ops40-jhb-rg
-  aks-cluster: tailwindtradersakshzp7gvooj5hng
+  aks-cluster: tailwindtradersaksx2cjxgpxpak3u
   ingress: tailwindtradersaksx2cjxgpxpak3u-fda713b7.hcp.westeurope.azmk8s.io
 
   # Production Database
