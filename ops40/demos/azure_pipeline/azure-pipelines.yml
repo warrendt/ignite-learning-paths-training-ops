@@ -24,7 +24,7 @@ variables:
   ingress: tailwindtradersaksx2cjxgpxpak3u-fda713b7.hcp.westeurope.azmk8s.io
 
   # Production Database
-  hostDB: ://ttshoppingdbx2cjxgpxpak3u.documents.azure.com:443/
+  hostDB: https://ttshoppingdbx2cjxgpxpak3u.documents.azure.com:443/
 
 stages:
 
